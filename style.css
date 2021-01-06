@@ -52,10 +52,13 @@ section{
     height: 50%;
     }
 
-.Work Inquery{
-    background-image: image(blue);
-    box-shadow: 10px 10px 40px blue;
-    border-radius: 5px;
+.work-inquery{
+background-image: url(https://images.app.goo.gl/mKTSyqYCQFtMYWaW6);
+    float: left;
+    margin-left: 10cm;
+    text-align: center;
+    color: black;
+
 }
 
 
