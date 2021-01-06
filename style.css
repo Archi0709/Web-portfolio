@@ -1,18 +1,62 @@
 body{
+    margin:0
     font-family: 'Poppins', sans-serif;
 }
 h1{
     font-size: 50px;
+}
+}
+h2{
+    font-size: 45px;
+}
+p{
+    color: dimgrey;
 }
 .name-highlight{
     color: chocolate;
 }
 .half-width{
     width:40%;
-    float:left;
+    float: left;
     margin-left: 5%;
     padding-left: 2%;
 }
 .half-width img{
-   width: 100%; 
+   width: 60%; 
+}
+.top-banner{
+    border: 1px solid red
+    background-image: url("images/top-banner.png");
+}
+section{
+    height: 500px;
+    padding-bottom: 5px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+    
+.Working-Project{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px wheat;
+    border-radius: 5px;
+    height: 50%;
+    }
+
+.Work Inquery{
+    background-image: image(blue);
+    box-shadow: 10px 10px 40px blue;
+    border-radius: 5px;
+}
+
+
 }
